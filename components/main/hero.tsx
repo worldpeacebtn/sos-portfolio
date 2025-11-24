@@ -2,7 +2,7 @@ import { HeroContent } from "@/components/sub/hero-content";
 
 export const Hero = () => {
   return (
-<div className="relative w-full h-screen overflow-visible">
+<div className="relative w-full h-full m-0 p-0 overflow-hidden">
       <video
   autoPlay
   muted
